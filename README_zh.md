@@ -1,7 +1,14 @@
-# 别调Prompt了，去写Loop
+# 📖 别调Prompt了，去写Loop
 
 > AI Agent时代的软件工程新范式
 > 作者：**Yason** · MindApex · VokoForge
+
+[![Stars](https://img.shields.io/github/stars/Madapexai/loop-engineering-book?style=social)](https://github.com/Madapexai/loop-engineering-book)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/lang-中文%20%7C%20English-blue)]()
+[![Chapters](https://img.shields.io/badge/chapters-20%20%2B%203%20appendices-orange)]()
+
+---
 
 ## 简介
 
@@ -15,17 +22,68 @@
 - **真实案例**：从Ralph Loop到明略科技，从字节跳动到Amplitude
 - **M-LOOP框架**：1个Rex中枢 + 4条闭环 + 7个门禁的实战体系
 
-## 目录（20章 + 3个附录，五大部分）
+> 📖 [English README](README.md)
 
-| 部分 | 章节数 | 核心内容 |
-|------|--------|----------|
-| 序 | 1 | 震撼开场 + 范式转变 + 阅读导航 |
-| 第一部分：范式革命 | 3 | 四次范式跃迁、Loop Engineering定义、Loop/Chain/Vibe Coding对比 |
-| 第二部分：核心架构 | 6 | Automations、Worktrees、Skills、Plugins、Sub-agents、Memory六大模块 |
-| 第三部分：设计与实践 | 5 | 五步方法论、质量门禁、失败模式、Ralph Loop、企业案例 |
-| 第四部分：框架与生态 | 3 | LangChain四层循环、工具生态全景、M-LOOP框架 |
-| 第五部分：未来与组织 | 3 | 自进化组织、Token经济、工程师转型 |
-| 附录 | 3 | 设计检查清单、推荐资源、术语表 |
+## 章节
+
+### 序
+
+| 编号 | 标题 | 文件 |
+|------|------|------|
+| 00 | 序 | [zh/00_preface.md](zh/00_preface.md) |
+
+### 第一部分：范式革命
+
+| 编号 | 标题 | 文件 |
+|------|------|------|
+| 01 | 四次范式跃迁 | [zh/part1_01.md](zh/part1_01.md) |
+| 02 | Loop Engineering 定义 | [zh/part1_02.md](zh/part1_02.md) |
+| 03 | Loop / Chain / Vibe Coding 对比 | [zh/part1_03.md](zh/part1_03.md) |
+
+### 第二部分：核心架构
+
+| 编号 | 标题 | 文件 |
+|------|------|------|
+| 04 | Automations | [zh/part2_01.md](zh/part2_01.md) |
+| 05 | Worktrees | [zh/part2_02.md](zh/part2_02.md) |
+| 06 | Skills | [zh/part2_03.md](zh/part2_03.md) |
+| 07 | Plugins | [zh/part2_04.md](zh/part2_04.md) |
+| 08 | Sub-agents | [zh/part2_05.md](zh/part2_05.md) |
+| 09 | Memory | [zh/part2_06.md](zh/part2_06.md) |
+
+### 第三部分：设计与实践
+
+| 编号 | 标题 | 文件 |
+|------|------|------|
+| 10 | 五步方法论 | [zh/part3_01.md](zh/part3_01.md) |
+| 11 | 质量门禁 | [zh/part3_02.md](zh/part3_02.md) |
+| 12 | 失败模式 | [zh/part3_03.md](zh/part3_03.md) |
+| 13 | Ralph Loop | [zh/part3_04.md](zh/part3_04.md) |
+| 14 | 企业案例 | [zh/part3_05.md](zh/part3_05.md) |
+
+### 第四部分：框架与生态
+
+| 编号 | 标题 | 文件 |
+|------|------|------|
+| 15 | LangChain四层循环 | [zh/part4_01.md](zh/part4_01.md) |
+| 16 | 工具生态全景 | [zh/part4_02.md](zh/part4_02.md) |
+| 17 | M-LOOP框架 | [zh/part4_03.md](zh/part4_03.md) |
+
+### 第五部分：未来与组织
+
+| 编号 | 标题 | 文件 |
+|------|------|------|
+| 18 | 自进化组织 | [zh/part5_01.md](zh/part5_01.md) |
+| 19 | Token经济 | [zh/part5_02.md](zh/part5_02.md) |
+| 20 | 工程师转型 | [zh/part5_03.md](zh/part5_03.md) |
+
+### 附录
+
+| 编号 | 标题 | 文件 |
+|------|------|------|
+| A | 设计检查清单 | [zh/appendix_a.md](zh/appendix_a.md) |
+| B | 推荐资源 | [zh/appendix_b.md](zh/appendix_b.md) |
+| C | 术语表 | [zh/appendix_c.md](zh/appendix_c.md) |
 
 ## 链接
 
@@ -33,9 +91,23 @@
 - 🏢 官网：[madapexai.com](https://www.madapexai.com/)
 - 📚 飞书知识库：[别调Prompt了，去写Loop](https://mindapex.feishu.cn/wiki/NXZxw5G0CimB3pk14i3c7Q5fnME)
 
+## 同系列书籍
+
+- 🤖 [给AI当老板：Agent作战团队](https://github.com/Madapexai/ai-agent-team-book) — 21章智能体团队实战手册
+- 🚗 [智驾时代：Agent进化简史](https://github.com/Madapexai/agent-evolution-book) — 从Prompt到自进化的AI驾驶之路
+
+## 作者
+
+**Yason** · 非典型程序员 / Agent 团队架构师
+
+过去，我通过管理团队来创造价值；如今，AI 正在重塑一切。管理的本质正在从「管人」转向「管 Agent」——以 Agent 为兵，以系统为阵，打造一支真正有战斗力的超级团队。
+
+- 博客：[blogs.yason.click](https://blogs.yason.click/)
+- 官网：[madapexai.com](https://www.madapexai.com/)
+
 ## 许可证
 
-MIT License
+[MIT License](LICENSE) — 自由使用、复制、修改和分发。
 
 ---
 
